@@ -40,6 +40,8 @@
 
 #include <list>
 
+#include <opencv2/core/hal/hal.hpp>
+
 #if _DEBUG
 #include <iostream>
 #endif
